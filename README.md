@@ -22,4 +22,5 @@ conda install nb_conda
 jupyter notebook
 ```
 ### 7.設定kernel核心
-
+![image](https://github.com/la7655/Tensorflow_LabelImg/blob/main/images/image2.PNG)
+### 8.執行腳本
