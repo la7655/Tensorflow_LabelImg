@@ -6,7 +6,20 @@
 ```python
 conda create --name myenv python=3.7
 ```
+### 3.進入資料夾
+```python
+cd ~/image_label
+```
 ### 4.下載所需的檔案
+git clone https://github.com/la7655/Tensorflow_LabelImg.git
 ### 5.下載與安裝所需的資源
 ```python
-pip install 
+pip install jupyter notebook
+conda install nb_conda
+```
+### 6.啟動jupyter notebook
+```python
+jupyter notebook
+```
+### 7.設定kernel核心
+
