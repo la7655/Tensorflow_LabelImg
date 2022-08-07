@@ -1,6 +1,6 @@
 # 照片標記照片工具
-### 1.桌面上新增放置資料的資料夾
-![image]
+### 1.桌面上新增放置資料的資料夾，命名為"image_label"
+![image](https://github.com/la7655/Tensorflow_LabelImg/blob/main/images/image1.PNG)
 ### 2.Miniconda建立環境
 建立名為"label"的環境
 ```python
