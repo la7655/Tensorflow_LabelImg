@@ -15,7 +15,9 @@ conda activate Train
 cd ~/image_label
 ```
 ### 5.下載所需的檔案
+```python
 git clone https://github.com/la7655/Tensorflow_LabelImg.git
+```
 ### 6.下載與安裝所需的資源
 ```python
 pip install jupyter notebook
